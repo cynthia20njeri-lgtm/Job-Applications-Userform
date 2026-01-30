@@ -33,6 +33,7 @@ End Sub
 Private Sub CommandButton6_Click()
 pick_date 6
 End Sub
+
 Private Sub CommandButton7_Click()
 pick_date 7
 End Sub
@@ -88,12 +89,15 @@ End Sub
 Private Sub CommandButton20_Click()
 pick_date 20
 End Sub
+
 Private Sub CommandButton21_Click()
 pick_date 21
 End Sub
+
 Private Sub CommandButton22_Click()
 pick_date 22
 End Sub
+
 Private Sub CommandButton23_Click()
 pick_date 23
 End Sub
@@ -101,21 +105,27 @@ End Sub
 Private Sub CommandButton24_Click()
 pick_date 24
 End Sub
+
 Private Sub CommandButton25_Click()
 pick_date 25
 End Sub
+
 Private Sub CommandButton26_Click()
 pick_date 26
 End Sub
+
 Private Sub CommandButton27_Click()
 pick_date 27
 End Sub
+
 Private Sub CommandButton28_Click()
 pick_date 28
 End Sub
+
 Private Sub CommandButton29_Click()
 pick_date 29
 End Sub
+
 Private Sub CommandButton30_Click()
 pick_date 30
 End Sub
