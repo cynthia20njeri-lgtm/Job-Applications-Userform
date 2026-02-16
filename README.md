@@ -1,5 +1,4 @@
-# Job Applications Userform
-# Job Application Tracker
+# Job Applications Tracker Userform
 
 A user-friendly Excel VBA application designed to help job seekers organize and track their job applications throughout the recruitment process.
 
